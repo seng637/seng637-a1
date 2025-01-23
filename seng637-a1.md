@@ -1,12 +1,8 @@
-**SENG 637 - Software Testing, Reliability, and Quality**
+**SENG 637 - Dependability and Reliability of Software Systems**
 >   **Assignment \#1**
-> 
->   **Introduction to Testing and Defect (Bug) Tracking**
-> 
+>   **Introduction to Testing and Defect (Bug) Tracking**  
 >   Instructor: Dr. Behrouz Far (far@ucalgary.ca)
-> 
 >   Department of Electrical and Software Engineering
-> 
 >   University of Calgary
 
 Due Date: Check D2L for the submission deadline.
@@ -33,11 +29,11 @@ This lab is designed to provide students with a basic understanding of software 
 This lab aims to provide students with a foundational understanding of software testing so that they can apply these concepts in real-world scenarios.
 
 # Pair Testing
-In this lab, two students in each group will work together in "pair testing." This technique is a software development method in which two team members work at one keyboard to test the software application. One person will conduct the testing while the other reviews and analyzes the results. This technique can be used between a tester and developer, business analyst, or between two testers who take turns at the keyboard. This approach allows for more efficient and effective testing, as well as an opportunity for team members to learn from each other.
+In this lab, two/three students in each group will work together in "pair testing." This technique is a software development method in which two team members work at one keyboard to test the software application. One person will conduct the testing while the other reviews and analyzes the results. This technique can be used between a tester and developer, business analyst, or between two testers who take turns at the keyboard. This approach allows for more efficient and effective testing, as well as an opportunity for team members to learn from each other.
 
 # Group Work
 
-In this lab, each group will consist of 4 members. Two members will work together in a pair testing method to complete the lab report. After the pair testing, both pairs will combine their reports and submit one final lab report.
+In this lab, each group will consist of 5 members. Two/Three members will work together in a pair testing method to complete the lab report. After the pair testing, both pairs will combine their reports and submit one final lab report.
 
 # Submission Guidelines
 All lab reports in this course should be submitted on GitHub. It is important to follow the suggested format when submitting your lab report on D2L and on GitHub.
@@ -141,6 +137,8 @@ When creating bug reports, it's important to include certain key elements that p
 -   Detailed steps to reproduce the defect/bug (e.g. insert a card, enter the correct card number and PIN)
 -   The expected outcome (e.g. the system should successfully accept the customer and display the banking menu)
 -   The actual outcome (e.g. the system crashes or displays an error message)
+-   The priority or severity of the bug (low, medium, high, or critical)
+-   TThe version of SUT (V 1.0/ V 1.1) in which the bug was found.
 
 
 
@@ -180,50 +178,34 @@ Within your group, you should now each be familiar with the main features of a b
 
 # Deliverables and Grading
 
-For this assignment, you need to submit one Excel/PDF/Markdown file and the lab report and demo your findings in the lab.
+For this assignment, you need to submit one Excel/PDF/Markdown file and the lab report.
 
-## Demo (25%)
-The demo session for this lab serves several purposes: 
-- preparing students for technical presentations, 
-- providing an early assessment of work to improve quality, and 
-- ensuring equal participation among team members. 
-
-All members must attend the lab and demonstrate examples of tests run and bugs found for each testing phase (exploratory, scripted, and regression). 
-Each team member should show at least one passing and one failing test, as well as the corresponding Backlog entry. 
-
-Failure to attend or demonstrate as required may result in loss of marks for the entire assignment. 
-
-Note that opportunities for improvement will continue until the deadline.
-
-
-## Defect Reports (35%)
+## Defect Reports (60%)
 
 Grading for students will be based on the quality of their defect reports, which must be submitted to their GitHub repository. They should use the designated bug tracking system to create a detailed report of any bugs found, in either PDF, Excel, or Markdown format. If the tool does not produce a report, one must be manually created.
 
 The grading criteria (rubric) for defect reports are as follows.
 
-| **Defect Reports**                                                                                                                                                                                                                      |     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| Correctness: Do the defect reports contain the detailed defect information? Does the report contain all the defects in the same level of detail? Does it contain the input, the expected output, and the faulty output for each defect? | 15% |
-| Clarity and adherence to defect reporting guidelines: Is it obvious where to start (what state to bring the program to) to replicate the defect? Is it obvious what you would type? Is it obvious what files to use (if any)?           | 15% |
-| Number of defects found: Note that not all defects need to be found. But if it appears that not enough effort was made in finding defects, marks may be deducted.                                                                       | 5%  |
+| **Defect Reports**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Correctness: Do the defect reports contain the detailed defect information:<br>- The function being tested is clearly stated?<br>- The initial state of the system is accurately described?<br>- The steps to reproduce the defect are detailed and precise?<br>- The expected outcome is correctly mentioned?<br>- The actual outcome is clearly stated?<br>- The priority or severity of the bug is appropriately classified?<br>- The version of the SUT in which the bug was found is correctly noted?<br>- Has the status of the bug changed after the regression test? | 40% |
+| Number of defects found: Note that not all defects need to be found. But if it appears that not enough effort was made in finding defects, marks may be deducted.                                                                                                                                                                                                                                                                                                                                                                           | 20% |
+
 
 ## Lab Report (40%)
 
-To be consistent, please use the template markdown file “SENG637-1-team_number.md” provided online. Change the team number to your team number. If desired, feel free to rename the sections, as long as the headings are still descriptive and accurate.
+To be consistent, please use the template markdown file “seng438-1-team_number.md” provided online. Change the team number to your team number. If desired, feel free to rename the sections, as long as the headings are still descriptive and accurate.
 
 | **Lab Report**                                                                                                                                                                      |     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| An introduction section including what you knew about exploratory and manual functional testing before this lab                                                                     | 5%  |
-| A high-level description of the exploratory testing plan                                                                                                                            | 5%  |
-| A comparison of exploratory and manual functional testing (based on the provided test suite) from several perspectives (e.g., benefits, tradeoffs, effectiveness, efficiency, etc.) | 10% |
+| Test plan including (check [Test_Plan_Sample.pdf](https://d2l.ucalgary.ca/d2l/le/content/570970/viewContent/6290762/View) on D2L for more information):<br>- Test Types<br>- Scope of Testing<br>- Test Logistics (Who tests each functionality) | 15% |
+| A comparison of exploratory and manual functional testing (based on the provided test suite) from several perspectives (e.g., benefits, tradeoffs, effectiveness, efficiency, etc.) | 15% |
 | Notes and discussion of the peer reviews of defect reports created by each pair in a group.                                                                                         | 5%  |
 
-| Any lessons learned from your teamwork on this lab?                                                                                                                      | 5%  |
+| **Reflection and Learning**                                                                                                                                                         |     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
-| Any difficulties encountered, challenges overcome, and lessons learned from performing the lab                                                                           | 5%  |
-| Comments/feedback on the lab and lab document itself. (Did you find it a useful practice? Was it easy to follow?) Please try to keep comments and feedback constructive. | 5%  |
-
+| Any difficulties encountered, challenges overcome, and lessons learned from performing the lab                                                                                                                      | 2%  |
+| Comments/feedback on the lab and lab document itself. (Did you find it a useful practice? Was it easy to follow?) Please try to keep comments and feedback constructive.| 3%  |
 
 # Acknowledgements
 
