@@ -211,7 +211,7 @@ To be consistent, please use the template markdown file “seng637-1-team_number
 
 This lab is part of a software-testing laboratory course available under a Creative Commons license.
 
-Some part of this document has been developed in the former SoftQual lab of University of Calgary for teaching SENG 437.
+Some part of this document has been developed in the former SoftQual lab of University of Calgary for teaching SENG 637.
 
 # References
 
