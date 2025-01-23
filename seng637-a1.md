@@ -1,9 +1,8 @@
-**SENG 438 - Software Testing, Reliability, and Quality**
+**SENG 637 - Software Testing, Reliability, and Quality**
 >   **Assignment \#1**
 >   **Introduction to Testing and Defect (Bug) Tracking**
 >   Instructors: 
 >   -   Dr. Behrouz Far (far@ucalgary.ca)
->   -   Dr. Kangsoo Kim (kangsoo.kim@ucalgary.ca)
 >   Department of Electrical and Software Engineering
 >   University of Calgary
 
