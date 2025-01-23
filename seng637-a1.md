@@ -74,7 +74,7 @@ In addition to the lab document, which is to be submitted in a markdown file for
 
 # System Under Test
 
-The system under test for this lab is an ATM simulation system [1]. To get started with this system, download the *lab_artifacts.zip* file under Assignment 1. There are two versions of the ATM system inside that zip file which represent two consecutive releases of the software with bugs and bug fixes (details in the next sections):
+The system under test for this lab is an ATM simulation system [1]. To get started with this system, download the *seng637-a1-artifacts.zip* file under Assignment 1. There are two versions of the ATM system inside that zip file which represent two consecutive releases of the software with bugs and bug fixes (details in the next sections):
 
 -   ATM System - Lab 1 Version 1.0
 -   ATM System - Lab 1 Version 1.1
