@@ -33,7 +33,7 @@ In this lab, two/three students in each group will work together in "pair testin
 
 # Group Work
 
-In this lab, each group will consist of 5 members. Two/Three members will work together in a pair testing method to complete the lab report. After the pair testing, both pairs will combine their reports and submit one final lab report.
+In this lab, each group will consist of 2 or 4 members. Two/Three members will work together in a pair testing method to complete the lab report. After the pair testing, both pairs will combine their reports and submit one final lab report.
 
 # Submission Guidelines
 All lab reports in this course should be submitted on GitHub. It is important to follow the suggested format when submitting your lab report on D2L and on GitHub.
@@ -194,7 +194,7 @@ The grading criteria (rubric) for defect reports are as follows.
 
 ## Lab Report (40%)
 
-To be consistent, please use the template markdown file “seng438-1-team_number.md” provided online. Change the team number to your team number. If desired, feel free to rename the sections, as long as the headings are still descriptive and accurate.
+To be consistent, please use the template markdown file “seng637-1-team_number.md” provided online. Change the team number to your team number. If desired, feel free to rename the sections, as long as the headings are still descriptive and accurate.
 
 | **Lab Report**                                                                                                                                                                      |     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
