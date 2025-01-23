@@ -208,7 +208,7 @@ The grading criteria (rubric) for defect reports are as follows.
 
 ## Lab Report (40%)
 
-To be consistent, please use the template markdown file “seng438-1-team_number.md” provided online. Change the team number to your team number. If desired, feel free to rename the sections, as long as the headings are still descriptive and accurate.
+To be consistent, please use the template markdown file “SENG637-1-team_number.md” provided online. Change the team number to your team number. If desired, feel free to rename the sections, as long as the headings are still descriptive and accurate.
 
 | **Lab Report**                                                                                                                                                                      |     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
