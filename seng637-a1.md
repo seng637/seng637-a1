@@ -198,7 +198,7 @@ To be consistent, please use the template markdown file “seng637-1-team_number
 
 | **Lab Report**                                                                                                                                                                      |     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| Test plan including (check ![](media/Test_Plan_Sample.pdf)  on D2L for more information):<br>- Test Types<br>- Scope of Testing<br>- Test Logistics (Who tests each functionality) | 15% |
+| Test plan including (Check: [Test Plan Sample](media/Test_Plan_Sample.pdf))  on D2L for more information):<br>- Test Types<br>- Scope of Testing<br>- Test Logistics (Who tests each functionality) | 15% |
 | A comparison of exploratory and manual functional testing (based on the provided test suite) from several perspectives (e.g., benefits, tradeoffs, effectiveness, efficiency, etc.) | 15% |
 | Notes and discussion of the peer reviews of defect reports created by each pair in a group.                                                                                         | 5%  |
 
