@@ -2,7 +2,7 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number      |
+| Group: 10      |
 |-----------------|
 | Student 1 name                |   
 | Student 2 name              |   
