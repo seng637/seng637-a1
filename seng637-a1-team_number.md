@@ -4,9 +4,9 @@
 
 | Group: Group Number      |
 |-----------------|
-| Student 1 name                |   
-| Student 2 name              |   
-| Student 3 name               |   
+| Maheen                |   
+| Dipu              |   
+| Jasdeep               |   
 | Student 4 name                |   
 
 
