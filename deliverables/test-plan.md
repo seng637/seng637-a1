@@ -1,8 +1,8 @@
 # Test Plan for ATM Simulation System - SENG 637 Assignment 1
 
-## 1. Introduction
+## 1. Test Plan Outline
 
-This test plan outlines the testing strategy for the provided ATM Machine Simulation System (versions 1.0 and 1.1). The plan covers exploratory testing, manual scripted testing, and regression testing phases to ensure comprehensive coverage of the system's functionality and proper defect tracking.
+This test plan outlines the testing strategy for the provided ATM Machine Simulation System (versions 1.0 and 1.1). The plan covers exploratory testing, manual scripted testing, and regression testing (on version 1.1) phases to ensure comprehensive coverage of the system's functionality and proper defect/bug tracking.
 
 ## 2. Test Types
 
@@ -69,7 +69,7 @@ This test plan outlines the testing strategy for the provided ATM Machine Simula
 
 ### 3.3 Test Environment
 - **System Under Test**: ATM System JAR files (v1.0 and v1.1)
-- **Platform**: Java Runtime Environment
+- **Platform**: Windows 10, JDK 17.0.15.6
 - **Test Data**:
   - Card Number: 1
   - PIN: 42
